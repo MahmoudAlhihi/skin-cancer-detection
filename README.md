@@ -14,3 +14,5 @@ This project focuses on automated skin lesion segmentation using deep learning t
 - Converted one-hot labels to single class names
 - Constructed an dvalidated image and mask paths
 - Visualized sample image and mask pair
+- preprocessed data
+- splitted the data into Train, Validation and Test split
